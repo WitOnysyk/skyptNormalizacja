@@ -1,0 +1,2 @@
+# skyptNormalizacja
+Normalizacja+Magnitude
